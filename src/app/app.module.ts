@@ -1,6 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { MaterialModule } from '@angular/material';
+import { MatTabsModule } from '@angular/material/tabs';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+// import { FlexLayoutModule } from '@angular/flex-layout';
+
 import { AppComponent } from './app.component';
 
 @NgModule({
@@ -8,7 +11,10 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    BrowserAnimationsModule,
+    // FlexLayoutModule,
+    MatTabsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

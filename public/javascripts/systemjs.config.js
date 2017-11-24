@@ -40,8 +40,9 @@
       '@angular/cdk/observers': 'npm:@angular/cdk/bundles/cdk-observers.umd.js',
       '@angular/cdk/accordion': 'npm:@angular/cdk/bundles/cdk-accordion.umd.js',
       '@angular/cdk/scrolling': 'npm:@angular/cdk/bundles/cdk-scrolling.umd.js',
-      '@angular/cdk/rxjs': 'npm:@angular/cdk/rxjs',
+      '@angular/cdk/rxjs': 'npm:@angular/cdk/bundles/cdk-rxjs.umd.js',
       '@angular/cdk': 'npm:@angular/cdk/bundles/cdk.umd.js',
+      '@angular/material/tabs':'npm:@angular/material/bundles/material-tabs.umd.js',
 
       '@angular/cdk/platform': 'npm:@angular/cdk/bundles/cdk-platform.umd.js',
       '@angular/cdk/a11y': 'npm:@angular/cdk/bundles/cdk-a11y.umd.js',
