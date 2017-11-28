@@ -42,7 +42,13 @@
       '@angular/cdk/scrolling': 'npm:@angular/cdk/bundles/cdk-scrolling.umd.js',
       '@angular/cdk/rxjs': 'npm:@angular/cdk/bundles/cdk-rxjs.umd.js',
       '@angular/cdk': 'npm:@angular/cdk/bundles/cdk.umd.js',
+      // '@angular/material':'npm:@angular/material/bundles',
+
       '@angular/material/tabs':'npm:@angular/material/bundles/material-tabs.umd.js',
+      '@angular/material/core':'npm:@angular/material/bundles/material-core.umd.js',
+      '@angular/material/form-field':'npm:@angular/material/bundles/material-form-field.umd.js',
+      '@angular/material/input':'npm:@angular/material/bundles/material-input.umd.js',
+
 
       '@angular/cdk/platform': 'npm:@angular/cdk/bundles/cdk-platform.umd.js',
       '@angular/cdk/a11y': 'npm:@angular/cdk/bundles/cdk-a11y.umd.js',
