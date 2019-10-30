@@ -27,7 +27,7 @@
     "@risingstack/trace": "^3.12.2",
     "back-starter": "1.0.4",
     "body-parser": "~1.15.2",
-    "bower": "^1.8.0",
+    "bower": "^1.8.8",
     "cookie-parser": "~1.4.3",
     "core-js": "^2.4.1",
     "debug": "~2.2.0",
